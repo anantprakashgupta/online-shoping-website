@@ -251,7 +251,7 @@ button{
 	 <title>Product List and Grid View</title>
 <meta name"viewport" content="width=device-width, user-scalable=no, initial=scale=1.0, maximun-scale=1.0, minimun-scale=1.0" >
 
-<h1>Product List and Grid View</h1>
+<h1>Product List</h1>
 
 <!--Buttons of grid and list-->
  <div class="buttons">
@@ -263,33 +263,33 @@ button{
   <div id="div1">
     <section class="section-grid">
     <div class="grid-prod">
-     <div class="prod-grid"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita">
-       <h3>Ph'nglui mglw'nafh. </h3>    
+     <div class="prod-grid"><img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="kalita">
+       <h3>Shoes </h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. </p>
  <button class="btn"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
      </div>
-     <div class="prod-grid"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita">
-       <h3>Ph'nglui mglw'nafh. </h3>    
+     <div class="prod-grid"><img src="https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="kalita">
+       <h3>HedPhone. </h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
  <button class="btn"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
      </div>
-      <div class="prod-grid"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita">
-       <h3>Ph'nglui mglw'nafh. </h3>    
+      <div class="prod-grid"><img src="https://rukminim1.flixcart.com/image/200/200/l2f20sw0/shopsy-hand-messenger-bag/b/4/n/stylish-women-shoulder-bag-shoper-1red-hobo-khatushyam-original-imagdrmucazmpztg.jpeg?q=70" alt="kalita">
+       <h3>Ledies Bag </h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
  <button class="btn"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
      </div>
-      <div class="prod-grid"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita">
-       <h3>Ph'nglui mglw'nafh. </h3>    
+      <div class="prod-grid"><img src="https://rukminim1.flixcart.com/image/200/200/l48s9zk0/shirt/w/s/r/m-st-pv-purple-majestic-man-original-imagf6g9knyyrxvp.jpeg?q=70" alt="kalita">
+       <h3>Shirt</h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
  <button class="btn"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
      </div>
-      <div class="prod-grid"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita">
-       <h3>Ph'nglui mglw'nafh. </h3>    
+      <div class="prod-grid"><img src="https://rukminim1.flixcart.com/image/200/200/k6qsn0w0/tablet/3/q/z/lenovo-za5g0047in-original-imafp4w7qvpnprv5.jpeg?q=70" alt="kalita">
+       <h3>Mobile</h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
  <button class="btn"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
      </div>
-      <div class="prod-grid"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita">
-       <h3>Ph'nglui mglw'nafh. </h3>    
+      <div class="prod-grid"><img src="https://rukminim1.flixcart.com/image/200/200/l3j2cnk0/electric-kettle/q/z/c/-original-imagemy6egjb6zme.jpeg?q=70" alt="kalita">
+       <h3>Kitchen kettles</h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
  <button class="btn"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button>
      </div>
@@ -301,8 +301,26 @@ button{
     <section class="section-list">
       <table>
         <tr>
-          <td><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita"><td>
-          <td>  <h3>Ph'nglui mglw'nafh. </h3>    
+          <td><img src="https://rukminim1.flixcart.com/image/200/200/kqpj4i80/ring/8/1/8/adjustable-cfr-k149-ring-set-karishma-kreations-original-imag4ntug2g26twf.jpeg?q=70" alt="kalita"><td>
+          <td>  <h3>Smart  Bag </h3>    
+            <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
+           <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
+        </tr>
+        <tr>
+          <td width="30%"><img src="https://rukminim1.flixcart.com/image/200/200/ji0lbbk0/recliner/q/n/7/maroon-pu-leatherette-emporiummaroon-westido-original-imaf5wr5x27c6gaq.jpeg?q=70" alt="kalita"><td>
+          <td>  <h3>Sofa </h3>    
+            <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
+           <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
+        </tr>
+        <tr>
+          <td width="30%"><img src="https://rukminim1.flixcart.com/image/200/200/keg02a80/wardrobe-closet/f/y/f/particle-board-bewtri000500800620-kurlon-wenge-original-imafv49kgfrmmxbq.jpeg?q=70" alt="kalita"><td>
+          <td>  <h3>Almira </h3>    
+            <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
+           <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
+        </tr>
+        <tr>
+          <td width="30%"><img src="https://rukminim1.flixcart.com/flap/200/200/image/83ed05de14e2176d.jpg?q=70" alt="kalita"><td>
+          <td>  <h3>Shoes </h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
            <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
         </tr>
@@ -313,26 +331,8 @@ button{
            <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
         </tr>
         <tr>
-          <td width="30%"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita"><td>
-          <td>  <h3>Ph'nglui mglw'nafh. </h3>    
-            <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
-           <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
-        </tr>
-        <tr>
-          <td width="30%"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita"><td>
-          <td>  <h3>Ph'nglui mglw'nafh. </h3>    
-            <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
-           <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
-        </tr>
-        <tr>
-          <td width="30%"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita"><td>
-          <td>  <h3>Ph'nglui mglw'nafh. </h3>    
-            <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
-           <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
-        </tr>
-        <tr>
-          <td width="30%"><img src="https://images.contentful.com/3h0qt25be5vd/1ojeAoISmMSKysKIOKEWGi/22b6344383ffabc7e250f1eed88287ae/Brew_Guide-KalitaWave-Step03.jpg?w=960&h=640&fm=jpg&q=70" alt="kalita"><td>
-          <td>  <h3>Ph'nglui mglw'nafh. </h3>    
+          <td width="30%"><img src="https://rukminim1.flixcart.com/image/200/200/kx50gi80/pen/h/z/k/119766-flair-original-imag9nzubznagufg.jpeg?q=70" alt="kalita"><td>
+          <td>  <h3>Pen </h3>    
             <p>Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.</p>
            <button class="btn-list"> Buy <i class="fa fa-shopping-cart" aria-hidden="true"></i></button></td>
         </tr>
